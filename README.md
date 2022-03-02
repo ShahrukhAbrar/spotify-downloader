@@ -55,5 +55,4 @@ installed although ffmpeg has to installed and added to path for it to work
 
 ![image](https://user-images.githubusercontent.com/74890659/154210788-51e600d5-a0f9-477a-a958-a6dfbd7aa669.png)
 
-If you have any problems,doubts,suggestion or any other queries you can reach me on discord at Rickyrorton#6693 or
-join the spotify downloader support server at https://discord.gg/8pTQAfAAbm
+If you have any problems,doubts,suggestion or any other queries you can reach me on discord at Fuji#4649
