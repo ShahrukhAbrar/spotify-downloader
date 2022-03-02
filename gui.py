@@ -10,8 +10,8 @@ import downloader
 #defining a window
 global window
 window=Tk()
-window.geometry('600x700')
-window.resizable(False,False)
+window.geometry('600x600')
+window.resizable(True,True)
 window.configure(bg = '#3d3d3d')
 window.title('Spotify Downloader')
 
